@@ -39,7 +39,6 @@ public class Solution {
     }
 }
 
-
 // Test case 1: expected false, real false
 // Test case 1: expected true, real true
 // Test case 1: expected true, real true
